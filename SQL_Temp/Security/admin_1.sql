@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [admin]
+    WITH PASSWORD = N'&xJr{{el@L`d@ooxgmib+k_omsFT7_&#$!~<jvi7s{myc5io', SID = 0xC1D3889635891B48B14550E01C171FF1, DEFAULT_DATABASE = [TestDBWaehrungen], DEFAULT_LANGUAGE = [Deutsch], CHECK_EXPIRATION = ON;
+

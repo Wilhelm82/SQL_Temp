@@ -1,0 +1,2 @@
+﻿CREATE USER [LAPTOPP\Wahrscheinlichkeit];
+

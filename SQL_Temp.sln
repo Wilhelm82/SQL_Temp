@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Projekt_Qualitätsprüfung", "SQL_Temp\Projekt_Qualitätsprüfung.sqlproj", "{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9AF807-E0D5-47A9-A7AF-49961740F3D9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31094B8E-C837-4369-8BBF-D7B37ABA6268}
+	EndGlobalSection
+EndGlobal
